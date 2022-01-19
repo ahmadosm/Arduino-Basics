@@ -1,1 +1,2 @@
-# Arduino-Basics
+# Arduino-Basics-Description
+The following repo contains three sections, each consisting of a program which is to be run with Arduino. The programs are all in python language; the required versions and toolkits are given in the description of each code. Arduino Basics allows the user to acquire a simple view on what kind of sample programs can be used when using an arduino board and the python language. The basic knowledge and code can be applied to much larger projects such as, Mechatronics, Hardware desgin, and Robotics. They are well known and widely used in these respective industries.
